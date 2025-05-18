@@ -45,3 +45,13 @@ Review the IT manager’s:
 Then, **perform an internal audit** by completing a:
 
 - **Controls and compliance checklist**
+
+  ## 🧠 Skills Learned
+
+Through this project, I gained hands-on experience and practical knowledge in:
+
+- Conducting Security Audits
+- Analyzing Vulnerabilities and risks within an organization
+- Documenting my findings and recommending improvements
+- Enhancing Organizations security posture
+
