@@ -50,8 +50,8 @@ Then, **perform an internal audit** by completing a:
 
 Through this project, I gained hands-on experience and practical knowledge in:
 
-- Conducting Security Audits
-- Analyzing Vulnerabilities and risks within an organization
-- Documenting my findings and recommending improvements
-- Enhancing Organizations security posture
+- Conducting comprehensive security audits
+- Analyzing vulnerabilities and risks within an organization
+- Documenting audit findings and recommending actionable improvements
+- Enhancing an organization’s overall security posture through structured assessments
 
